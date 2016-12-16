@@ -1,0 +1,28 @@
+[数据记录包1]
+数据源=FameView UserData Source
+数据表=demo
+时间字段=dt
+时间间隔=60
+标识字段=f3
+打包字段=f1[R4],f2[R4]
+[数据记录包2]
+数据源=FameView UserData Source
+数据表=
+时间字段=
+时间间隔=60
+标识字段=
+打包字段=
+[数据记录包3]
+数据源=FameView UserData Source
+数据表=
+时间字段=
+时间间隔=60
+标识字段=
+打包字段=
+[数据记录包4]
+数据源=FameView UserData Source
+数据表=
+时间字段=
+时间间隔=60
+标识字段=
+打包字段=
